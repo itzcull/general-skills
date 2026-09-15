@@ -23,6 +23,7 @@ done
 
 | Skill | Purpose |
 | --- | --- |
+| [writing-for-agents](skills/writing-for-agents/) | Create and evaluate reliable machine-consumed instructions. |
 
 ## License
 
