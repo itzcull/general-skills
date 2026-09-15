@@ -24,6 +24,7 @@ done
 | Skill | Purpose |
 | --- | --- |
 | [writing-for-agents](skills/writing-for-agents/) | Create and evaluate reliable machine-consumed instructions. |
+| [writing-for-humans](skills/writing-for-humans/) | Create informational writing readers can find, understand, and use. |
 
 ## License
 
